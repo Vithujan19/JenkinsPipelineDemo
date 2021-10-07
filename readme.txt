@@ -1,1 +1,1 @@
-Jenkins Usage Demonstration Repository.
+Jenkins Pipeline Demonstration Repository.
